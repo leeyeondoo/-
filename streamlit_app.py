@@ -8,7 +8,7 @@ import pandas as pd
 st.title("이연두의 헬스케어서비스")
 
 # 2. 부제목
-st.subheader("이 페이지는 다양한 Streamlit 기능을 보여줍니다.")
+st.subheader("이 서비스는 폐결핵, 피부암, 당뇨를 알려줍니.")
 
 # 3. 판다스 데이터프레임 기반 표 출력
 df = pd.DataFrame({
